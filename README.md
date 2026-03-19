@@ -13,35 +13,8 @@
   <strong>25 shell scripts under one command.<br>System admin, dev tools, networking — all with a unified TUI.</strong>
 </p>
 
-<br>
+<img width="941" height="556" alt="image" src="https://github.com/user-attachments/assets/7e26d5ad-ec4c-47c8-87e2-455528ad1580" />
 
-```
-$ tool
-
-    ╔════════════════════════════════════════════════════════════════╗
-    ║                                                                ║
-    ║      ████████╗ ██████╗  ██████╗ ██╗     ██╗  ██╗██╗████████╗   ║
-    ║      ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██║ ██╔╝██║╚══██╔══╝   ║
-    ║         ██║   ██║   ██║██║   ██║██║     █████╔╝ ██║   ██║      ║
-    ║         ██║   ██║   ██║██║   ██║██║     ██╔═██╗ ██║   ██║      ║
-    ║         ██║   ╚██████╔╝╚██████╔╝███████╗██║  ██╗██║   ██║      ║
-    ║         ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝      ║
-    ║                                                                ║
-    ╚════════════════════════════════════════════════════════════════╝
-
-  COMMANDS
-
-    list         │  Display all available scripts
-    add          │  Add a new script to the toolkit
-    delete       │  Remove a script from the toolkit
-    stats        │  Show detailed toolkit statistics
-    search <kw>  │  Find scripts matching a keyword
-    edit <n>     │  Open a script in $EDITOR
-    help         │  Display this help message
-    <script>     │  Execute any script by name
-```
-
-<br>
 
 ## Why Toolkit?
 
